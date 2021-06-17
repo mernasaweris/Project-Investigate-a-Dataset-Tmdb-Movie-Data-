@@ -1,0 +1,2 @@
+# Project-Investigate-a-Dataset-Tmdb-Movie-Data-
+Introduction In this project i am going to analyse dataset of a group of movies with different genres collected from The Movie Database (TMDb). In total this data set has a lot of properties to help us . Through our analysis we will try to answer some important questions relating to this data set.  Questions : what is the relation between runtime and popularity ? Which genres are most interesting ? what are the best movies which have the highest revenue ?
